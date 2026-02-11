@@ -1,0 +1,9 @@
+[submodule "external/zycore-c"]
+	path = external/zycore-c
+	url = https://github.com/zyantific/zycore-c.git
+[submodule "external/zydis"]
+	path = external/zydis
+	url = https://github.com/zyantific/zydis.git
+[submodule "external/safetyhook"]
+	path = external/safetyhook
+	url = https://github.com/cursey/safetyhook.git

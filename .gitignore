@@ -1,0 +1,4 @@
+.xmake/
+bin/
+build/
+external/*
