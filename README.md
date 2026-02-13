@@ -4,7 +4,11 @@ Preview the contents of Shulker Box
 
 ## Preview
 
-![Preview Image](preview.png)
+### Empty Shulker Box
+![Preview Image 1](preview1.png)
+### L Shift to show contents
+![Preview Image 2](preview2.png)
+![Preview Image 3](preview3.png)
 
 ## Bug Reports
 

@@ -13,6 +13,8 @@
 #include "mc/client/game/IClientInstance.h"
 #include "mc/deps/core/resource/ResourceLocation.h"
 #include "mc/deps/core/file/PathView.h"
+#include "mc/client/gui/controls/MeasureResult.h"
+#include "mc/deps/input/Keyboard.h"
 #include "Util/KColor.h"
 #include "Util/KHoverRenderer.h"
 #include "Util/KNineSliceHelper.h"

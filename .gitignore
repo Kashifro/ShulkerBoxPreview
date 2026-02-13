@@ -1,4 +1,4 @@
 .xmake/
 bin/
 build/
-external/*
+external/

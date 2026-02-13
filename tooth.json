@@ -1,0 +1,38 @@
+{
+  "format_version": 3,
+  "format_uuid": "f7fb2a2a-7e3f-4014-baa7-a0b8062292bb",
+  "tooth": "github.com/Kashifro/ShulkerBoxPreview",
+  "version": "1.0.0",
+  "info": {
+    "name": "ShulkerBoxPreview",
+    "description": "Shows the contents of shulker boxes in tooltips.",
+    "tags": [
+      "platform:levilamina",
+      "type:mod"
+    ],
+    "avatar_url": ""
+  },
+  "variants": [
+    {
+      "platform": "win-x64",
+      "dependencies": {
+        "github.com/LiteLDev/LeviLamina": "1.9.*"
+      },
+      "assets": [
+        {
+          "type": "zip",
+          "urls": [
+            "https://{{tooth}}/releases/download/v{{version}}/ShulkerBoxPreview.zip"
+          ],
+          "placements": [
+            {
+              "type": "dir",
+              "src": "ShulkerBoxPreview/",
+              "dest": "mods/ShulkerBoxPreview/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
